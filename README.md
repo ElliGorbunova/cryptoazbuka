@@ -1,2 +1,2 @@
-# cryptoteka
-cryptoteka - crypto deals aggregator
+# cryptoazbuka
+cryptoazbuka - crypto deals aggregator
